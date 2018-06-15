@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Banco de Dados</string>
+    <string name="pergunta_3">Pergunta 3: Escolha uma das opções</string>
+    <string name="op_1">Opção 1</string>
+    <string name="op_2">Opção 2</string>
+    <string name="op_3">Opção 3</string>
+    <string name="op_4">Opção 4</string>
+    <string name="proxima_pergunta">Proxima Pergunta</string>
+    <string name="pergunta_2">Pergunta 2: Escolha uma das opções</string>
+    <string name="pergunta_1">Pergunta 1: Escolha uma das opções</string>
+    <string name="salvar_respsotas">Salvar Respsotas</string>
+    <string name="responder_novamente">Responder Novamente</string>
+
+
+</resources>
